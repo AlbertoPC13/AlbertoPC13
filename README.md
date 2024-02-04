@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello there! 👋
-I'm Alberto Palacios, and I'm thrilled to welcome you to my GitHub profile! 😊 I have a deep passion for mathematics, physics, and the captivating realms of various sciences. However, my heart truly beats for the enchanting world of computing.
+I'm ***Alberto Palacios***, and I'm thrilled to welcome you to my GitHub profile! 😊 I have a deep passion for mathematics, physics, and the captivating realms of various sciences. However, my heart truly beats for the enchanting world of computing.
 
-Worlds that interest me:
+### Topics that interest me
 
-- Cryptography 💻🔐
-- Artificial intelligence 🤖🧠
+- ***Cryptography*** 💻🔐
+- ***Artificial intelligence*** 🤖🧠
 
 ### Tech Stack
 
