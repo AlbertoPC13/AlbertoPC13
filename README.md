@@ -20,9 +20,37 @@ Worlds that interest me:
 - Cryptography 💻🔐
 - Artificial intelligence 🤖🧠
 
-### Technologies
+### Tech Stack
 
+![Static Badge](https://img.shields.io/badge/Python-ffd966?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Java-e23737?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/C%20Language-9FC5E8?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-0b5394?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/C%23-741C75?style=for-the-badge&logo=C%23&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/HTML-ff8301?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/CSS-3d85c6?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/JavaScript-f5e400?style=for-the-badge&logo=JavaScript&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Prolog-f44336?style=for-the-badge&logo=swiprolog&logoColor=ffffff&labelColor=101010)
+
+
+![Static Badge](https://img.shields.io/badge/Git-f26100?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Linux-A2A4A5?style=for-the-badge&logo=Linux&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Azure-007ACC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Arduino-00c1df?style=for-the-badge&logo=Arduino&logoColor=ffffff&labelColor=101010)
+
+
+<!--
 ### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoPC13&show_icons=true&hide=stars&rank_icon=github&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPC13&layout=compact&hide_progress=true&langs_count=8&theme=ambient_gradient )](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoPC13&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPC13&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+### Find me on
+
+![Static Badge](https://img.shields.io/badge/Alberto%20Palacios%20Cabrera-0b5394?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&label=LinkedIn&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/pcbeto-bd5090?style=for-the-badge&logo=INSTAGRAM&logoColor=ffffff&label=instagram&labelColor=101010)
+
+
