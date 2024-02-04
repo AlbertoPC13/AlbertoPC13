@@ -31,8 +31,6 @@ Worlds that interest me:
 ![Static Badge](https://img.shields.io/badge/CSS-3d85c6?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f5e400?style=for-the-badge&logo=JavaScript&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Prolog-f44336?style=for-the-badge&logo=swiprolog&logoColor=ffffff&labelColor=101010)
-
-
 ![Static Badge](https://img.shields.io/badge/Git-f26100?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&labelColor=101010)
