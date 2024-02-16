@@ -46,7 +46,7 @@ I'm ***Alberto Palacios***, and I'm thrilled to welcome you to my GitHub profile
 
 ### Find me on
 
-[![LinkedIn Badge](https://img.shields.io/badge/Alberto%20Palacios%20Cabrera-0b5394?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&label=LinkedIn&labelColor=101010)](www.linkedin.com/in/albertopc13)
+[![LinkedIn Badge](https://img.shields.io/badge/Alberto%20Palacios%20Cabrera-0b5394?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&label=LinkedIn&labelColor=101010)](https://www.linkedin.com/in/albertopc13)
 [![Instagram Badge](https://img.shields.io/badge/pcbeto-bd5090?style=for-the-badge&logo=INSTAGRAM&logoColor=ffffff&label=instagram&labelColor=101010)](https://www.instagram.com/pcbeto/)
 
 
