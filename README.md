@@ -22,20 +22,22 @@ I'm ***Alberto Palacios***, and I'm thrilled to welcome you to my GitHub profile
 
 ### Tech Stack
 
-![Static Badge](https://img.shields.io/badge/Python-ffd966?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/Java-e23737?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/C%20Language-9FC5E8?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-0b5394?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/C%23-741C75?style=for-the-badge&logo=C%23&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Python-ffd966?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/Java-e23737?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/HTML-ff8301?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/CSS-3d85c6?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f5e400?style=for-the-badge&logo=JavaScript&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Git-f26100?style=for-the-badge&logo=Git&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/GitHub-351c75?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Linux-A2A4A5?style=for-the-badge&logo=Linux&logoColor=ffffff&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=ffffff&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/Azure-007ACC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Azure-007ACC?style=for-the-badge&logo=Azure)
+![Static Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)
+
+
 
 
 <!--
